@@ -1,0 +1,29 @@
+integer array(5) swapList
+integer placeholder
+
+swapList[0] = 0
+swapList[1] = 1
+swapList[2] = 2
+swapList[3] = 3
+swapList[4] = 4
+
+Put swapList[0] to output
+Put swapList[1] to output
+Put swapList[2] to output
+Put swapList[3] to output
+Put swapList[4] to output
+
+Put "\n" to output
+
+placeholder = swapList[0]
+swapList[0] = swapList[4]
+swapList[4] = placeholder
+placeholder = swapList[1]
+swapList[1] = swapList[3]
+swapList[3] = placeholder
+
+Put swapList[0] to output
+Put swapList[1] to output
+Put swapList[2] to output
+Put swapList[3] to output
+Put swapList[4] to output

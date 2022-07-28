@@ -1,0 +1,7 @@
+Arrays - a special variable having one name, but storing a list of data items
+
+Element - each item in an array
+
+Index - each elements location number inside of an array
+
+Logical Error - to make a wrong staement that would lead to incorrect output
